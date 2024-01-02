@@ -1,0 +1,6 @@
+HsmService/ValidatePin - Req
+EsbPinService/GetEncKeyRegMob - Req
+EsbPinService/GetEncKeyRegMob - Resp
+EsbPinService/EsbValidatePinRegMob - Req
+EsbPinService/EsbValidatePinRegMob - Resp
+HsmService/ValidatePin - Resp
